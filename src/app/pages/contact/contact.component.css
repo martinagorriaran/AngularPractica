@@ -1,0 +1,7 @@
+@font-face {
+    font-family: rubik;
+    src: url(../../../assets/font/Rubik/static/Rubik-Regular.ttf);
+}
+p,h4{
+    font-family: rubik,helvetica,arial,sans-serif;
+}

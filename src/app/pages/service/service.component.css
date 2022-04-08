@@ -3,7 +3,7 @@
     width: 100px;
     padding: 20px;
 }
-.hero{
+.iconhero{
     height: 100px;
     width: 100px;
     padding: 20px;
@@ -11,7 +11,7 @@
 .aubrey{
     height: 100px;
     width: 100px;
-    padding: 20px;
+    
 }
 .card{
     margin-top: 30px;
@@ -19,7 +19,19 @@
 }
 
 #fondo{
-    background-color:cadetblue;
+    background-color: gray;
 
+}
+
+.card-title{
+    color: #6200ff;;
+}
+
+.inf{
+    width: 370px;
+}
+table{
+    width: 370px;
+    background-color: whitesmoke;
 }
 

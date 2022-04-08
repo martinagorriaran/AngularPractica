@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: rubik;
+    src: url(/src/assets/font/Rubik/static/Rubik-Regular.ttf);
+}
+p,h4,a,table{
+    font-family: rubik,helvetica,arial,sans-serif;
+}
+
+a{
+    color: #6200ff;
+}
+
