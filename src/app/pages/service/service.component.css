@@ -1,0 +1,25 @@
+.kel{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+.hero{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+.aubrey{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+.card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#fondo{
+    background-color:cadetblue;
+
+}
+
